@@ -1,0 +1,36 @@
+general:
+  max_hours_per_week: 35  # Maximum d'heures par employé par semaine
+  max_consecutive_hours: 6  # Maximum d'heures consécutives
+  min_days_off_per_week: 2  # Minimum de jours de repos par semaine
+
+staffing_requirements:
+  Morning: 10  # Employés nécessaires de 8h à 12h
+  Afternoon: 8  # Employés nécessaires de 12h à 16h
+  Evening: 5  # Employés nécessaires de 16h à 20h
+
+preferences:
+  weights:
+    Morning: 2  # Poids pour la préférence "Morning"
+    Afternoon: 1  # Poids pour la préférence "Afternoon"
+    Evening: -1  # Poids pour la préférence "Evening"
+
+financials:
+  salaries:
+    Mother: 15  # Salaire horaire des mères
+    Senior: 15  # Salaire horaire des seniors
+    Graduate: 13  # Salaire horaire des jeunes diplômés
+    PartTime: 12  # Salaire horaire des employés à mi-temps
+    FullTime: 14  # Salaire horaire des employés à temps plein
+
+absences:
+  rate: 0.15  # Taux d'absentéisme (10%)
+
+objectives:
+  priorities:
+    - cover_all_shifts  # Priorité 1 : Couvrir tous les créneaux
+    - minimize_cost # Priorité 2 : Minimiser le coût total
+    - maximize_satisfaction  # Priorité 3 : Maximiser la satisfaction
+    - balance_workload  # Priorité 4 : Répartir la charge de travail équitablement
+
+scalability:
+  max_employees: 200  # Nombre maximum d'employés supportés

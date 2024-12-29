@@ -7,8 +7,8 @@ def generate_employees(n=60, seed=42):
     np.random.seed(seed)
     random.seed(seed)
 
-    categories = ["Solo_parent", "Senior", "Graduate", "PartTime", "FullTime"]
-    salaries = {"Solo_parent": 15, "Senior": 16, "Graduate": 13, "PartTime": 12, "FullTime": 14}
+    categories = ["Mother", "Senior", "Graduate", "PartTime", "FullTime"]
+    salaries = {"Mother": 15, "Senior": 16, "Graduate": 13, "PartTime": 12, "FullTime": 14}
     preferences = [["Morning"], ["Afternoon"], ["No Evening"], ["Weekend"]]
     
     employees = []
@@ -40,7 +40,7 @@ def generate_additional_employees(n=60, existing_df=None, seed=43):
     random.seed(seed)
 
     categories = ["Mother", "Senior", "Graduate", "PartTime", "FullTime"]
-    salaries = {"Mother": 14, "Senior": 15, "Graduate": 13, "PartTime": 12, "FullTime": 13}
+    salaries = {"Mother": 15, "Senior": 16, "Graduate": 13, "PartTime": 12, "FullTime": 14}
     preferences = [["Morning"], ["Afternoon"], ["No Evening"], ["Weekend"]]
     
     employees = []
