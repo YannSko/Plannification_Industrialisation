@@ -122,6 +122,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv/
+.Industrialisation_Plannif/
 env/
 venv/
 ENV/
