@@ -1,5 +1,4 @@
-from pulp import LpProblem, LpVariable, LpMaximize, lpSum, PULP_CBC_CMD
-from ortools.sat.python import cp_model
+from pulp import lpSum
 
 # Calculate preference scores
 def calculate_preference_score(slot, preferences, weights):
