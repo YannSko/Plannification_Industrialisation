@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy==1.23.5
+PyYAML==6.0
+matplotlib==3.7.1
+PuLP==2.6.0
+ortools==9.6.2534
+pytest==7.3.0
+pytest-cov==4.0.0
+loguru==0.7.0
