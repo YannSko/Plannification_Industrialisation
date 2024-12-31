@@ -1,0 +1,61 @@
+ID,Name,Category,Availability,Preference,Salary
+E1,Employee_1,Mother,"Saturday,Wednesday,Tuesday",Afternoon,15
+E2,Employee_2,Senior,"Saturday,Sunday,Friday",Morning,16
+E3,Employee_3,FullTime,"Monday,Sunday,Saturday,Tuesday,Friday,Wednesday",Afternoon,14
+E4,Employee_4,FullTime,"Tuesday,Thursday,Friday,Wednesday,Monday,Saturday",Weekend,14
+E5,Employee_5,Graduate,"Tuesday,Sunday,Wednesday,Monday,Thursday",Weekend,13
+E6,Employee_6,Mother,"Sunday,Wednesday,Friday,Saturday,Monday",Weekend,15
+E7,Employee_7,FullTime,"Thursday,Monday,Friday",No Evening,14
+E8,Employee_8,FullTime,"Friday,Tuesday,Monday,Sunday,Wednesday",Afternoon,14
+E9,Employee_9,Graduate,"Sunday,Tuesday,Monday",Weekend,13
+E10,Employee_10,Graduate,"Saturday,Wednesday,Tuesday,Sunday,Friday,Monday",No Evening,13
+E11,Employee_11,Mother,"Saturday,Tuesday,Friday,Sunday,Monday,Thursday,Wednesday",No Evening,15
+E12,Employee_12,FullTime,"Saturday,Wednesday,Monday,Tuesday",Morning,14
+E13,Employee_13,Graduate,"Wednesday,Monday,Tuesday,Sunday,Saturday,Friday",Weekend,13
+E14,Employee_14,PartTime,"Wednesday,Tuesday,Saturday,Sunday",Weekend,12
+E15,Employee_15,FullTime,"Wednesday,Tuesday,Saturday,Thursday,Monday,Sunday",Morning,14
+E16,Employee_16,Senior,"Sunday,Saturday,Thursday,Monday",Weekend,16
+E17,Employee_17,PartTime,"Thursday,Friday,Wednesday,Monday,Saturday,Sunday,Tuesday",No Evening,12
+E18,Employee_18,Mother,"Thursday,Tuesday,Sunday,Monday,Wednesday",No Evening,15
+E19,Employee_19,FullTime,"Friday,Monday,Wednesday,Tuesday",Afternoon,14
+E20,Employee_20,Graduate,"Friday,Sunday,Monday,Wednesday",Weekend,13
+E21,Employee_21,Mother,"Wednesday,Sunday,Tuesday",Morning,15
+E22,Employee_22,Senior,"Monday,Sunday,Thursday,Saturday,Wednesday,Friday,Tuesday",Weekend,16
+E23,Employee_23,FullTime,"Wednesday,Friday,Saturday,Thursday",Afternoon,14
+E24,Employee_24,FullTime,"Saturday,Wednesday,Thursday,Sunday",Weekend,14
+E25,Employee_25,FullTime,"Monday,Tuesday,Saturday,Sunday,Friday,Thursday",Afternoon,14
+E26,Employee_26,FullTime,"Monday,Sunday,Saturday,Tuesday",Morning,14
+E27,Employee_27,Mother,"Monday,Friday,Tuesday,Wednesday,Thursday",Weekend,15
+E28,Employee_28,Senior,"Tuesday,Saturday,Friday,Thursday,Monday,Sunday,Wednesday",Afternoon,16
+E29,Employee_29,Mother,"Saturday,Thursday,Wednesday",Weekend,15
+E30,Employee_30,PartTime,"Sunday,Saturday,Monday,Friday,Thursday,Tuesday",No Evening,12
+E31,Employee_31,Mother,"Tuesday,Sunday,Friday,Thursday",Afternoon,15
+E32,Employee_32,PartTime,"Wednesday,Thursday,Tuesday,Monday",Weekend,12
+E33,Employee_33,FullTime,"Monday,Saturday,Friday",Morning,14
+E34,Employee_34,Mother,"Tuesday,Thursday,Saturday,Friday",Afternoon,15
+E35,Employee_35,PartTime,"Tuesday,Thursday,Monday",Weekend,12
+E36,Employee_36,Graduate,"Wednesday,Thursday,Friday,Saturday,Monday,Sunday",No Evening,13
+E37,Employee_37,Senior,"Friday,Saturday,Sunday",Morning,16
+E38,Employee_38,Graduate,"Monday,Friday,Thursday",Afternoon,13
+E39,Employee_39,Mother,"Monday,Tuesday,Sunday,Friday,Wednesday,Thursday,Saturday",Morning,15
+E40,Employee_40,FullTime,"Friday,Sunday,Monday,Saturday",Weekend,14
+E41,Employee_41,FullTime,"Friday,Wednesday,Saturday,Tuesday,Sunday,Thursday,Monday",No Evening,14
+E42,Employee_42,PartTime,"Saturday,Sunday,Wednesday,Thursday",No Evening,12
+E43,Employee_43,Mother,"Thursday,Friday,Saturday",Morning,15
+E44,Employee_44,Mother,"Tuesday,Friday,Wednesday,Sunday,Thursday,Monday,Saturday",No Evening,15
+E45,Employee_45,Graduate,"Thursday,Friday,Wednesday,Monday",No Evening,13
+E46,Employee_46,Mother,"Wednesday,Monday,Saturday,Tuesday",No Evening,15
+E47,Employee_47,Graduate,"Tuesday,Saturday,Wednesday,Sunday,Friday,Thursday,Monday",No Evening,13
+E48,Employee_48,Mother,"Saturday,Thursday,Wednesday",Morning,15
+E49,Employee_49,Mother,"Sunday,Tuesday,Wednesday,Saturday,Friday",Weekend,15
+E50,Employee_50,FullTime,"Friday,Monday,Saturday,Sunday,Wednesday,Thursday",Morning,14
+E51,Employee_51,Graduate,"Friday,Tuesday,Thursday,Saturday,Monday,Sunday,Wednesday",Morning,13
+E52,Employee_52,Graduate,"Saturday,Tuesday,Monday,Wednesday",Weekend,13
+E53,Employee_53,FullTime,"Tuesday,Sunday,Saturday,Thursday",Morning,14
+E54,Employee_54,Senior,"Sunday,Thursday,Tuesday,Wednesday,Monday",Morning,16
+E55,Employee_55,PartTime,"Sunday,Thursday,Tuesday",Afternoon,12
+E56,Employee_56,PartTime,"Wednesday,Tuesday,Saturday,Monday,Sunday",Afternoon,12
+E57,Employee_57,PartTime,"Wednesday,Monday,Sunday,Friday,Thursday",Weekend,12
+E58,Employee_58,FullTime,"Monday,Sunday,Wednesday,Tuesday,Friday",No Evening,14
+E59,Employee_59,Mother,"Friday,Thursday,Wednesday",No Evening,15
+E60,Employee_60,PartTime,"Friday,Monday,Thursday,Tuesday,Sunday,Saturday,Wednesday",Morning,12
